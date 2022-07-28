@@ -1,6 +1,7 @@
 #top-banner-img {
     filter: brightness(50%);
 }
+/* media query by mobile and tablet device */
 @media screen and (min-width: 50px) and (max-width:  992px) {
     .company-logo{
         display: none;
