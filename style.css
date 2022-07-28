@@ -1,0 +1,14 @@
+#top-banner-img {
+    filter: brightness(50%);
+}
+@media screen and (min-width: 50px) and (max-width:  992px) {
+    .company-logo{
+        display: none;
+    }
+}
+@media screen and (min-width: 992px) and (max-width:  1400px) {
+    .question-part{
+        width: 75%;
+    }
+    
+}
